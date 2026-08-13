@@ -1,17 +1,36 @@
-# Hi, I'm SAKU 👋
+# Saku — Game Developer
 
-I'm a **game developer** focused on building games, tools, and software with **Godot, C#, and .NET**.
+**Godot · C# · .NET · Game Systems · Developer Tools**
 
-I enjoy designing systems, solving technical problems, and creating reusable tools that improve the development process.
+I build games and the systems behind them — from gameplay architecture and reusable libraries to developer tools and experimental projects.
 
-## Projects
+## What I Like Building
 
-I work on a variety of game development projects and open-source tools, ranging from gameplay systems and developer tooling to libraries and experiments.
+* 🎮 Gameplay systems & game feel
+* 🧩 Reusable architecture and frameworks
+* 🛠️ Developer tools & editor extensions
+* ⚙️ C# / .NET tooling
+* 🌲 Procedural systems
+* 🧪 Experimental ideas and prototypes
 
-You can find my current and past work in the repositories below.
+## Technologies
 
-## Interests
+`C#` `GDScript` `Godot` `.NET` `Roslyn` `Git`
 
-**Game Development · Software Architecture · Developer Tools · Open Source**
+## Open Source
+
+I publish tools and libraries for Godot and the wider C# ecosystem.
+
+[**Explore my repositories →**](https://github.com/AhmedGD1?tab=repositories)
+
+## GitHub
+
+![GitHub Stats Card](https://ghstats.dev/api/card?username=AhmedGD1)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedGD1&theme=github-compact)
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00ffaa&height=100&section=footer"/>
+</p>
