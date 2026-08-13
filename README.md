@@ -1,23 +1,17 @@
 # Hi, I'm SAKU 👋
 
-I'm a **game developer** who primarily works with **Godot and C#**.
+I'm a **game developer** focused on building games, tools, and software with **Godot, C#, and .NET**.
 
-I enjoy building games, developer tools, and reusable systems — especially things involving **game architecture, AI, tooling, serialization, and gameplay systems**.
+I enjoy designing systems, solving technical problems, and creating reusable tools that improve the development process.
 
-## 🛠️ Projects
+## Projects
 
-A few things I've built:
+I work on a variety of game development projects and open-source tools, ranging from gameplay systems and developer tooling to libraries and experiments.
 
-* 🎮 **KORVEX** — a fast-paced PSX-style FPS.
-* 🤖 **TakobiAI** — behavior tree tooling for Godot.
-* 💾 **Persistence** — a save/load library for Godot C#.
-* 🛠️ **Anvil** — strongly-typed asset identifiers and tooling for Godot.
-* 🧩 **GodotUtilities** — reusable utilities for Godot C#.
+You can find my current and past work in the repositories below.
 
-## 🔧 Technologies
+## Interests
 
-**C# · .NET · Godot · Roslyn · Git**
+**Game Development · Software Architecture · Developer Tools · Open Source**
 
-## 💭
-
-I like understanding how things work, building my own solutions when needed, and polishing them until they're genuinely useful.
+---
