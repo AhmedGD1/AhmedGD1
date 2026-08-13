@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm SAKU 👋
 
-<!--
-**AhmedGD1/AhmedGD1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **game developer** who primarily works with **Godot and C#**.
 
-Here are some ideas to get you started:
+I enjoy building games, developer tools, and reusable systems — especially things involving **game architecture, AI, tooling, serialization, and gameplay systems**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects
+
+A few things I've built:
+
+* 🎮 **KORVEX** — a fast-paced PSX-style FPS.
+* 🤖 **TakobiAI** — behavior tree tooling for Godot.
+* 💾 **Persistence** — a save/load library for Godot C#.
+* 🛠️ **Anvil** — strongly-typed asset identifiers and tooling for Godot.
+* 🧩 **GodotUtilities** — reusable utilities for Godot C#.
+
+## 🔧 Technologies
+
+**C# · .NET · Godot · Roslyn · Git**
+
+## 💭
+
+I like understanding how things work, building my own solutions when needed, and polishing them until they're genuinely useful.
