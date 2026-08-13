@@ -27,8 +27,6 @@ I publish tools and libraries for Godot and the wider C# ecosystem.
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=AhmedGD1)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedGD1&theme=github-compact)
-
 ---
 
 <p align="center">
